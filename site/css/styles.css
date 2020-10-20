@@ -1,3 +1,17 @@
-.h1 {
-    text-align: center;
+.h3 {
+    font: bold;
+
+}
+
+.nav{
+    background-color: aquamarine;
+}
+
+div.container-fluid > div.row >div{
+    background-color:lightgray;
+    margin: -10px;
+    padding: -5px;
+}
+.h1{
+    font:bolder;
 }
